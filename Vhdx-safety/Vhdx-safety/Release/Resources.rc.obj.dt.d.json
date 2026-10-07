@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\vhdx-safety\\vhdx-safety\\resources.rc",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
