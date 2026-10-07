@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\resource.obj",
+            "outputs": [
+                "Release\\resource.rc.obj.dt.module.json",
+                "Release\\resource.rc.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

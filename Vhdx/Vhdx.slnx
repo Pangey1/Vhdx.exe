@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Vhdx/Vhdx.vcxproj" Id="7aabaa9a-26d0-41f5-ac07-a09cc15d8728" />
+</Solution>
